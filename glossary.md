@@ -9,11 +9,19 @@ More to read: https://www.coursera.org/articles/front-end-developer, https://boo
 ## HTML
 
 
+
 ## CSS
 
 
 ## JavaScript
+Javascript is a programming language that allows you to implement more complex functions on web pages. Coding in this language allows you to create dynamic updating content, control multimedia, animate images, etc. Running Javascript code allows responsiveness to certain events that occur on a web page. 
 
+Some common basic uses of Javascript:
+- Developing web and mobile apps
+- Building web servers and server applications
+- Interactive behavior on websites 
+
+Links: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 
 ## Yarn
 
